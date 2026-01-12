@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="app_name">My First app DIO</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="btn_enter">Enter</string>
 </resources>
